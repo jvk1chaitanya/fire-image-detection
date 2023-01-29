@@ -31,6 +31,8 @@ Another real-world use case is in industrial environments where fire detection i
 Overall, this project serves as a good starting point for anyone interested in creating a fire detection system using deep learning. With the right modifications and training, this model has the potential to make a real impact in various fields, including wildfire detection and industrial safety.
 
 ## Accessing the Code and Data
-The notebook and data used in this project can be found in the following GitHub folder: link to the folder
+The notebook and data used in this project can be found in the following GitHub folder:
+1) https://github.com/jvk1chaitanya/fire-image-detection/tree/main/Notebook
+2) https://github.com/jvk1chaitanya/fire-image-detection/tree/main/Data
 
 In this folder, you will find the Jupyter notebook containing the code used in this project as well as the data used for training and testing the model. Feel free to use and modify the code as you see fit for your own projects.
